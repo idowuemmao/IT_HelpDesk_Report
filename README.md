@@ -69,6 +69,8 @@ Visual titles update based on the selected parameter using DAX measures.
 
    * Columns: Ticket ID, Subject, Body, Answer, Avg Resolution Days
    * Detailed view for support team case reviews
+   * Ticket ID slicer to select the ticket ID or range of ticket ID
+   * Resolution(days) slicer to filter by resolution(Days)
 
 ---
 
